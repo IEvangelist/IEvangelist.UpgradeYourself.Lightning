@@ -55,13 +55,17 @@
 
 ---?color=linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%)
 
-@quote[Negativity is contagious! Simply being aware of this can help you combat it...](David M. Pine)
+@quote[Negativity is contagious, you alone have a choice to combat this](David M. Pine)
 
 ---
 
 ## StackOverflow @color[orange](@fa[stack-overflow])
 <br/>
 ### @color[magenta](Top 2%) in the world, among the @color[chartreuse](9.5 million) users!
+
+---?color=linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%)
+
+@quote[Why procrastinate today when you can procrastinate tomorrow](David Neal)
 
 ---
 
@@ -91,7 +95,7 @@
 
 ---?color=linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%)
 
-@quote[Expect nothing, but be grateful for everything](David Pine)
+@quote[Expect nothing, but be grateful for everything](David M. Pine)
 
 ---?image=assets/the-world.jpg&size=contain
 
