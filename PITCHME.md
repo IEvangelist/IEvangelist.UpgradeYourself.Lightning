@@ -1,6 +1,6 @@
 ---?color=linear-gradient(#002560, black)
 
-# @css[shadw](@color[crimson](Upgrade) @color[blue](Yourself) @color[yellow](@fa[bolt]))
+# @css[shadow](@color[crimson](Upgrade) @color[blue](Yourself) @color[yellow](@fa[bolt]))
 <br>
 #### @css[shadow](A Guide To @css[twitter](#DeveloperCommunity) Success)
 
@@ -55,13 +55,21 @@
 
 ---?color=linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%)
 
-@quote[Negativity is contagious, you alone have a choice to combat this](David M. Pine)
+@quote[I have not failed, I've just found 10,000 ways that won't work](Thomas A. Edison)
 
 ---
 
 ## StackOverflow @color[orange](@fa[stack-overflow])
 <br/>
 ### @color[magenta](Top 2%) in the world, among the @color[chartreuse](9.5 million) users!
+
+---?image=assets/stack.png&size=contain
+
+@ul[none]
+
+- @size[10em](@css[soft-shadow](@color[forestgreen](@fa[smile-o])))
+
+@ulend
 
 ---?color=linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%)
 
@@ -77,11 +85,11 @@
 @size[3em](@css[b](Open<br>Source))
 @snapend
 
----?image=assets/spiderman.jpg&size=contain&opacity=30
+---?image=assets/spiderman.jpg&size=contain&opacity=60
 
 @transition[none]
 
-@snap[north-west]
+@snap[north-west black-quote]
 @quote[With great power comes great responsibility](Uncle Ben (Yes, from Spider Man))
 @snapend
 
@@ -112,4 +120,4 @@
 
 ---
 
-# Thank You
+# @css[underline](Thank You)
